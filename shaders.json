@@ -1,0 +1,2117 @@
+[
+  {
+    "name": "Cryptographic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 5385,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1906496743"
+  },
+  {
+    "name": "Glowhoo",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 5388,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1906496742"
+  },
+  {
+    "name": "Eye of the Mad God",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3836,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "407626699"
+  },
+  {
+    "name": "Chatterwhite",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3833,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "407626698"
+  },
+  {
+    "name": "Valentine",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7674,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "813108078"
+  },
+  {
+    "name": "Rosebright",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7677,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "813108079"
+  },
+  {
+    "name": "Blue Marble",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7773,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2989526608"
+  },
+  {
+    "name": "Tristesse",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7770,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2989526609"
+  },
+  {
+    "name": "Autumn Splendor",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7767,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2989526610"
+  },
+  {
+    "name": "Atlantean 5055",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7740,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2989526611"
+  },
+  {
+    "name": "Chrysanthemum",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7776,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2989526615"
+  },
+  {
+    "name": "Prayer of Nepal",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6798,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2874472095"
+  },
+  {
+    "name": "Infinite Link",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7739,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2571870726"
+  },
+  {
+    "name": "Imogen's Fire",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6828,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1947545037"
+  },
+  {
+    "name": "Pallas Victorious",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6825,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1947545036"
+  },
+  {
+    "name": "Electric Aquarius",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7701,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2561402281"
+  },
+  {
+    "name": "Sulfur Burnish",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7698,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2561402280"
+  },
+  {
+    "name": "Nebula Glow",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7695,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2561402283"
+  },
+  {
+    "name": "SUROS Minimalist",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7692,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2561402282"
+  },
+  {
+    "name": "The Old Guard",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7704,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "2561402286"
+  },
+  {
+    "name": "Sunsetting",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 5381,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3776902106"
+  },
+  {
+    "name": "Predawne",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 5375,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3776902104"
+  },
+  {
+    "name": "Middaye",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 5378,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3776902105"
+  },
+  {
+    "name": "Abydos Common",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6822,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4111350117"
+  },
+  {
+    "name": "Amduat Ink",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6819,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4111350118"
+  },
+  {
+    "name": "Aaru's Passage",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6816,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4111350119"
+  },
+  {
+    "name": "Goldspiral",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3779,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3367786034"
+  },
+  {
+    "name": "Million Million",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3776,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3367786035"
+  },
+  {
+    "name": "Double Banshee",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3854,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424264"
+  },
+  {
+    "name": "The Ointment",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3863,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424269"
+  },
+  {
+    "name": "Oracle 99",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3851,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424265"
+  },
+  {
+    "name": "Lost City",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3860,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424266"
+  },
+  {
+    "name": "Walkabout",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3869,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424271"
+  },
+  {
+    "name": "Barrier Ethos",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3857,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424267"
+  },
+  {
+    "name": "Sparklepony",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3866,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424268"
+  },
+  {
+    "name": "Amber Hoplite",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3872,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "194424270"
+  },
+  {
+    "name": "Tyre 4770",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3773,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "861576218"
+  },
+  {
+    "name": "Babylon 9191",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3767,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "861576216"
+  },
+  {
+    "name": "Carthage 0100",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3770,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "861576219"
+  },
+  {
+    "name": "Nineveh 8611",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3764,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "861576217"
+  },
+  {
+    "name": "Prism Dancer",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3803,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3753095827"
+  },
+  {
+    "name": "Rosegold",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3800,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3753095826"
+  },
+  {
+    "name": "Feud Unfading",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7659,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245944"
+  },
+  {
+    "name": "Chanson de Geste",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7668,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245949"
+  },
+  {
+    "name": "Kingspyre",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7671,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245948"
+  },
+  {
+    "name": "Yesternight",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7665,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245946"
+  },
+  {
+    "name": "Chalcedony",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7662,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245947"
+  },
+  {
+    "name": "Beltane",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7656,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "202245945"
+  },
+  {
+    "name": "Fortuna Burn",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6831,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4033743764"
+  },
+  {
+    "name": "The Queen's Web",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6834,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4033743765"
+  },
+  {
+    "name": "Shimmer",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7743,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987316"
+  },
+  {
+    "name": "Midnight Lumos",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7755,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987312"
+  },
+  {
+    "name": "Momentum's Pride",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7758,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987313"
+  },
+  {
+    "name": "Azura",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7761,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987314"
+  },
+  {
+    "name": "Hallow",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7764,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987315"
+  },
+  {
+    "name": "Bright Laurel",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7746,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987317"
+  },
+  {
+    "name": "Phosphore",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7749,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987318"
+  },
+  {
+    "name": "Krokos",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7752,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3764987319"
+  },
+  {
+    "name": "Mostly Cloudy",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7734,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "4211402862"
+  },
+  {
+    "name": "Burnt Marshmallow",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7728,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "4211402860"
+  },
+  {
+    "name": "Cyan Stars",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7725,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "4211402861"
+  },
+  {
+    "name": "Iris Germanica",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7731,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "4211402863"
+  },
+  {
+    "name": "Magma",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9383,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540593"
+  },
+  {
+    "name": "Candy Apple",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9359,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540601"
+  },
+  {
+    "name": "Dawn's Return",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9368,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540602"
+  },
+  {
+    "name": "Ghast",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9386,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540592"
+  },
+  {
+    "name": "Sunglow",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9374,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540604"
+  },
+  {
+    "name": "Solarize",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9380,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540606"
+  },
+  {
+    "name": "Oasis",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9377,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540607"
+  },
+  {
+    "name": "Hoarfrost",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9365,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540603"
+  },
+  {
+    "name": "White Tiger",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9371,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540605"
+  },
+  {
+    "name": "Debt Unpaid",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7710,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3056359296"
+  },
+  {
+    "name": "Mercurial Dawn",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7707,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3056359297"
+  },
+  {
+    "name": "Anahata",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7713,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3056359299"
+  },
+  {
+    "name": "Midas",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9362,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1814540600"
+  },
+  {
+    "name": "Malevolence",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9488,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291904"
+  },
+  {
+    "name": "Weldfire",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9491,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291905"
+  },
+  {
+    "name": "Laurel Wreath",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9405,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291906"
+  },
+  {
+    "name": "Brushfire",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9476,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291908"
+  },
+  {
+    "name": "Barrage",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9479,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291909"
+  },
+  {
+    "name": "Timeglass",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9482,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291910"
+  },
+  {
+    "name": "Dance of Bones",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9485,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1050291911"
+  },
+  {
+    "name": "Refraction Melt",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3848,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "651681371"
+  },
+  {
+    "name": "Bloodpact",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3839,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "651681368"
+  },
+  {
+    "name": "Lunar Elegy",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3842,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "651681369"
+  },
+  {
+    "name": "Cytherean Bloom",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3845,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "651681370"
+  },
+  {
+    "name": "Revenant",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3755,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3060686468"
+  },
+  {
+    "name": "The Hanged Man",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3758,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3060686471"
+  },
+  {
+    "name": "Bittersteel",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3752,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3060686469"
+  },
+  {
+    "name": "The Nowhere",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3761,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3060686470"
+  },
+  {
+    "name": "18327496-64703388",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3878,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454769"
+  },
+  {
+    "name": "Polar Oak",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3875,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454768"
+  },
+  {
+    "name": "Jester Apogee",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3887,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454770"
+  },
+  {
+    "name": "Provincial Royale",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3893,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454772"
+  },
+  {
+    "name": "Aurora Blur",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3890,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454771"
+  },
+  {
+    "name": "God of War",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3896,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454773"
+  },
+  {
+    "name": "Thunderdevil",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3905,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454776"
+  },
+  {
+    "name": "Undercity",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3899,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454774"
+  },
+  {
+    "name": "Broadsword",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3908,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454777"
+  },
+  {
+    "name": "Frostfire",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3902,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3671454775"
+  },
+  {
+    "name": "Caelestis",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 8901,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "139252900"
+  },
+  {
+    "name": "Dawncaller",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 8904,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "139252901"
+  },
+  {
+    "name": "The Eye",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3797,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "594938644"
+  },
+  {
+    "name": "August Seraph",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3794,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "594938645"
+  },
+  {
+    "name": "Trial by Ordeal",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6813,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3390448402"
+  },
+  {
+    "name": "Wolfcurse ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6807,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3390448404"
+  },
+  {
+    "name": "Devilswept ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6804,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3390448407"
+  },
+  {
+    "name": "Kingswind ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6801,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3390448406"
+  },
+  {
+    "name": "Judgment Cast",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 6810,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3390448405"
+  },
+  {
+    "name": "Vallsgrde",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7683,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1158121100"
+  },
+  {
+    "name": "Surfbreaker",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7686,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1158121103"
+  },
+  {
+    "name": "Antique Land",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7686,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1158121102"
+  },
+  {
+    "name": "The Devoted",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9064,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3458902100"
+  },
+  {
+    "name": "Banner Unbroken",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9070,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4197595974"
+  },
+  {
+    "name": "Candlelight",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9277,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3859658560"
+  },
+  {
+    "name": "Unquiet Spirit",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9280,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3859658561"
+  },
+  {
+    "name": "Sea of Tears",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9283,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3859658562"
+  },
+  {
+    "name": "Lion Dancer",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7680,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1158121101"
+  },
+  {
+    "name": "The Blast of War",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9067,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1536084164"
+  },
+  {
+    "name": "Knight-Errant",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9061,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1263693537"
+  },
+  {
+    "name": "Perilous Quest",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9058,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1263693536"
+  },
+  {
+    "name": "Gilgamesh",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3824,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3720866503"
+  },
+  {
+    "name": "Beowulf",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3827,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3720866500"
+  },
+  {
+    "name": "Cicero",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3830,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3720866501"
+  },
+  {
+    "name": "Achilles",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3821,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "3720866502"
+  },
+  {
+    "name": "Vena Cava",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7719,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3176299288"
+  },
+  {
+    "name": "Bone Marrow",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7716,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3176299289"
+  },
+  {
+    "name": "Ascendant Plane",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 7722,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "3176299291"
+  },
+  {
+    "name": "Blacksmith",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3818,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1759332257"
+  },
+  {
+    "name": "Fallen Crown",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3809,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1759332260"
+  },
+  {
+    "name": "Stolen Chalice",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3812,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1759332263"
+  },
+  {
+    "name": "Chatterwhite",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3806,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1759332261"
+  },
+  {
+    "name": "Superblack",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3815,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "1759332262"
+  },
+  {
+    "name": "Arctic Proxy",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3884,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2949605650"
+  },
+  {
+    "name": "Substance 321",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3881,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 3,
+    "itemType": "Armor Shader",
+    "itemHash": "2949605651"
+  },
+  {
+    "name": "Nanopoesis",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9055,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "898062438"
+  },
+  {
+    "name": "Incarnadine",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 9052,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "898062439"
+  },
+  {
+    "name": "Amalthea",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3782,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4112903824"
+  },
+  {
+    "name": "Nefertiti AK",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3785,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4112903825"
+  },
+  {
+    "name": "Themisto",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3788,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4112903826"
+  },
+  {
+    "name": "Cleopatra AK",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": 3791,
+    "patternIndex": -1,
+    "artArrangementIndex": -1,
+    "itemRarity": 4,
+    "itemType": "Armor Shader",
+    "itemHash": "4112903827"
+  }
+]

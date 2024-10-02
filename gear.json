@@ -1,0 +1,2762 @@
+[
+  {
+    "name": "Regulus Class 66c Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2307,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "3928923417"
+  },
+  {
+    "name": "Nanophoenix",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 4296,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3011919237"
+  },
+  {
+    "name": "AFv2 Octavian",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2291,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "4254137624"
+  },
+  {
+    "name": "AFv3 Octavian",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2292,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "4254137625"
+  },
+  {
+    "name": "LRv1 Javelin ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2287,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "4254137628"
+  },
+  {
+    "name": "LRv3 Javelin",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2289,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "4254137630"
+  },
+  {
+    "name": "AFv1 Octavian",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2290,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "4254137631"
+  },
+  {
+    "name": "LRv2 Javelin",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2288,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "4254137629"
+  },
+  {
+    "name": "\"Crypt Hammer\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1169,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "665587628"
+  },
+  {
+    "name": "Phaeton Class v2 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2302,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "1260068415"
+  },
+  {
+    "name": "\"Sun Current\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2571,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3043619338"
+  },
+  {
+    "name": "\"Draught of Nectar\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2570,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3043619339"
+  },
+  {
+    "name": "\"The Visible Hand\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1951,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2511884019"
+  },
+  {
+    "name": "\"Fatal Vision\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3343,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3926270234"
+  },
+  {
+    "name": "\"Hebridean Thoughtcrime\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3342,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3926270235"
+  },
+  {
+    "name": "\"Aspect of Glass\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1161,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "1413443073"
+  },
+  {
+    "name": "AFv1 Octavian Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2290,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "191110339"
+  },
+  {
+    "name": "Longest Vigil",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3966,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "446962952"
+  },
+  {
+    "name": "Last Battle",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3967,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "446962953"
+  },
+  {
+    "name": "Lost Legacy",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3968,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "446962958"
+  },
+  {
+    "name": "Space-Age Mariner",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3965,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "446962955"
+  },
+  {
+    "name": "Waning Star",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3964,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "446962954"
+  },
+  {
+    "name": "Phaeton Class v2.1 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2303,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "734733349"
+  },
+  {
+    "name": "Wolf Hunter BKR",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2569,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2171840884"
+  },
+  {
+    "name": "Kingslayer BKR ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2567,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2171840886"
+  },
+  {
+    "name": "Devils' Due BKR",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2566,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2171840887"
+  },
+  {
+    "name": "Coldsnap BKR",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2568,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2171840885"
+  },
+  {
+    "name": "AFv3 Octavian Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2292,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "1060893885"
+  },
+  {
+    "name": "\"Glass Minuet\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1160,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "331907412"
+  },
+  {
+    "name": "Manus Celer Dei Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2300,
+    "itemRarity": 5,
+    "itemType": "Ship Schematics",
+    "itemHash": "824273149"
+  },
+  {
+    "name": "\"Rope to Heaven\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1162,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3794349783"
+  },
+  {
+    "name": "\"Outrageous Fortune\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1170,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3950413311"
+  },
+  {
+    "name": "\"Karuna, Falling\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1167,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "701182406"
+  },
+  {
+    "name": "\"Shark Whisperer\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1960,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884848"
+  },
+  {
+    "name": "\"Steel Atreus\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1959,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884849"
+  },
+  {
+    "name": "\"Belisarius Defiant\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1962,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884850"
+  },
+  {
+    "name": "\"Act on Instinct\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1961,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884851"
+  },
+  {
+    "name": "\"Dream Eater\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1964,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884860"
+  },
+  {
+    "name": "\"Smokehouse Six\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1954,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884852"
+  },
+  {
+    "name": "\"Newsbreaker\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1953,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884853"
+  },
+  {
+    "name": "\"80 Proofreader\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1957,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884855"
+  },
+  {
+    "name": "\"Tiger Tiger\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1958,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884854"
+  },
+  {
+    "name": "\"The Dirigible Incorrigible\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1963,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1096884861"
+  },
+  {
+    "name": "Valkyrie-O5X Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2299,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2705396158"
+  },
+  {
+    "name": "\"The Climb\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1172,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3598189791"
+  },
+  {
+    "name": "Valkyrie-O5X ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2299,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1539265118"
+  },
+  {
+    "name": "Manus Celer Dei",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2300,
+    "itemRarity": 5,
+    "itemType": "Ship",
+    "itemHash": "1539265113"
+  },
+  {
+    "name": "EX10 Slipper Misfit Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2298,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "424355124"
+  },
+  {
+    "name": "\"Ticktock Inquisitor\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1971,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1388583990"
+  },
+  {
+    "name": "\"Scorpio Miracle\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1972,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1388583991"
+  },
+  {
+    "name": "\"Permission to Stomp\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1155,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "1548283707"
+  },
+  {
+    "name": "EX10 Spindle Demon Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2295,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "2448130207"
+  },
+  {
+    "name": "\"Chasing Infinity\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1175,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "976743008"
+  },
+  {
+    "name": "Order Theory",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1982,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2191224114"
+  },
+  {
+    "name": "Needle and Thread",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3343,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2191224115"
+  },
+  {
+    "name": "\"Silent Verdict\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1158,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "3162903858"
+  },
+  {
+    "name": "\"Quite Content Damsel\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1165,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "2723905880"
+  },
+  {
+    "name": "\"Omit the Legend\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1159,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "264407399"
+  },
+  {
+    "name": "Kestrel Class CX Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2318,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2325622529"
+  },
+  {
+    "name": "Regulus Class 22a Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2305,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "1191155383"
+  },
+  {
+    "name": "\"Glass Minuet\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1160,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "671526060"
+  },
+  {
+    "name": "\"Aspect of Glass\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1161,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "671526061"
+  },
+  {
+    "name": "NS66 Cloud Errant Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2283,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "2973507642"
+  },
+  {
+    "name": "\"The Worldbreaker\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1157,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "2270949961"
+  },
+  {
+    "name": "Kestrel Class AX Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2317,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "1244086868"
+  },
+  {
+    "name": "Kestrel Class AX0 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2308,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "896733964"
+  },
+  {
+    "name": "Regulus Class 99 Schematic ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2316,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "150661683"
+  },
+  {
+    "name": "NS44 High Water Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2285,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "1492814756"
+  },
+  {
+    "name": "NS22 High Water Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2284,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "1547671631"
+  },
+  {
+    "name": "\"Little Light\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1974,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431200"
+  },
+  {
+    "name": "\"Extinction Event\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1973,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431201"
+  },
+  {
+    "name": "\"Ripship Pardoner\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1977,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431205"
+  },
+  {
+    "name": "\"Vintage Russian Soul\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1970,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431202"
+  },
+  {
+    "name": "\"Aries Ascendant\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1975,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431207"
+  },
+  {
+    "name": "\"Ketch Me If You Can\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1969,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431203"
+  },
+  {
+    "name": "\"Tropos Gardener\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1978,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431204"
+  },
+  {
+    "name": "\"Ether Eater\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1976,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431206"
+  },
+  {
+    "name": "\"Atalanta's Hunt\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1980,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431210"
+  },
+  {
+    "name": "\"Gloriole Jump\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1979,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2245431211"
+  },
+  {
+    "name": "New Monarchy Vote",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1174,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2064611450"
+  },
+  {
+    "name": "\"Zephyr Rig\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1983,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3644912836"
+  },
+  {
+    "name": "\"Void Philosopher\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1985,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3644912834"
+  },
+  {
+    "name": "\"Gliding Hermitage\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1984,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3644912837"
+  },
+  {
+    "name": "\"Vienna Singer\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1981,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3644912838"
+  },
+  {
+    "name": "\"Eternity to Eternity\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1982,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3644912839"
+  },
+  {
+    "name": "CX10 Slipper Misfit Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2297,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "2018079969"
+  },
+  {
+    "name": "Future War Cult Vote",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1172,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1978818869"
+  },
+  {
+    "name": "Kestrel Class EX0",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2310,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "561161382"
+  },
+  {
+    "name": "Timeless Tereshkova",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 4295,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2615360546"
+  },
+  {
+    "name": "\"The Teilhard War\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1950,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3524149558"
+  },
+  {
+    "name": "Agonarch Karve",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3350,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "885685675"
+  },
+  {
+    "name": "\"Kondratyuk's Escape\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3344,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1855911072"
+  },
+  {
+    "name": "Phaeton Class v2 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2312,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "622635648"
+  },
+  {
+    "name": "Dead Orbit Vote",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1171,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1442286783"
+  },
+  {
+    "name": "AX10 Spindle Demon Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2293,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "704175501"
+  },
+  {
+    "name": "\"Silent Verdict\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1158,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908754"
+  },
+  {
+    "name": "\"Omit the Legend\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1159,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908755"
+  },
+  {
+    "name": "\"The Worldbreaker\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1157,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908757"
+  },
+  {
+    "name": "\"No End Theory\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1156,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908756"
+  },
+  {
+    "name": "\"Flexible Moral Compass\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1154,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908758"
+  },
+  {
+    "name": "\"Permission to Stomp\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1155,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2361908759"
+  },
+  {
+    "name": "\"Birth of History\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1173,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2695084041"
+  },
+  {
+    "name": "AFv2 Octavian Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2291,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "2448610768"
+  },
+  {
+    "name": "NS22 Cloud Errant",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2281,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "268122072"
+  },
+  {
+    "name": "NS44 Cloud Errant",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2282,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "268122073"
+  },
+  {
+    "name": "NS66 Cloud Errant",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2283,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "268122074"
+  },
+  {
+    "name": "NS22 High Water ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2284,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "268122075"
+  },
+  {
+    "name": "NS66 High Water",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2286,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "268122077"
+  },
+  {
+    "name": "NS44 High Water",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2285,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "268122076"
+  },
+  {
+    "name": "\"Laughing Behind Your Back\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1164,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3475947461"
+  },
+  {
+    "name": "LRv1 Javelin Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2287,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "841191396"
+  },
+  {
+    "name": "\"Flexible Moral Compass\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1154,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "3042657750"
+  },
+  {
+    "name": "\"Eon Trespass\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1166,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3711843883"
+  },
+  {
+    "name": "\"Comitatus\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3346,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3206937312"
+  },
+  {
+    "name": "Regulus Class 55 Schematic ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2314,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2330212013"
+  },
+  {
+    "name": "NS22 Cloud Errant Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2281,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "3563669392"
+  },
+  {
+    "name": "Regulus Class 77 Schematic ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2315,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2168695918"
+  },
+  {
+    "name": "NS66 High Water Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2286,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3417386385"
+  },
+  {
+    "name": "\"Bane of Dark Gods\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1967,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3458901840"
+  },
+  {
+    "name": "\"Light in the Abyss\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1966,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3458901841"
+  },
+  {
+    "name": "CX10 Spindle Demon Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2294,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "4186652640"
+  },
+  {
+    "name": "Arcadia Class Jumpship ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2321,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "2390487994"
+  },
+  {
+    "name": "Arcadia Class Jumpship ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2322,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "2390487995"
+  },
+  {
+    "name": "\"Aurora Lance\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1168,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "2105626297"
+  },
+  {
+    "name": "Regulus Class 44b Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2306,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "3206722242"
+  },
+  {
+    "name": "Ceres Galliot",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2572,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "923499578"
+  },
+  {
+    "name": "Hildian Seeker",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2573,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "923499579"
+  },
+  {
+    "name": "Phaeton Class v1 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2301,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2404703914"
+  },
+  {
+    "name": "LRv3 Javelin Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2289,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "4189018494"
+  },
+  {
+    "name": "\"Sidereal Rumba\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3347,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3808257331"
+  },
+  {
+    "name": "\"High and Flighty\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3349,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3808257329"
+  },
+  {
+    "name": "\"Mind Bleacher\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3348,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3808257330"
+  },
+  {
+    "name": "LRv2 Javelin Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2288,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "192515793"
+  },
+  {
+    "name": "AX19 Spindle Demon",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2293,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "1491990345"
+  },
+  {
+    "name": "CX20 Spindle Demon",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2294,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "1491990344"
+  },
+  {
+    "name": "EX21 Slipper Misfit",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2298,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "1491990348"
+  },
+  {
+    "name": "EX21 Spindle Demon",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2295,
+    "itemRarity": 2,
+    "itemType": "Ship",
+    "itemHash": "1491990347"
+  },
+  {
+    "name": "AX19 Slipper Misfit",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2296,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "1491990346"
+  },
+  {
+    "name": "CX20 Slipper Misfit",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2297,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "1491990349"
+  },
+  {
+    "name": "\"The Fangs of Nyx\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1163,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3812003298"
+  },
+  {
+    "name": "Kestrel Class EX Schematic ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2319,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "181829154"
+  },
+  {
+    "name": "\"Plasma Donor\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1956,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1609120941"
+  },
+  {
+    "name": "\"Seraphim Toaster\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1955,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "1609120940"
+  },
+  {
+    "name": "Phaeton Class v3.1 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2304,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "4122642360"
+  },
+  {
+    "name": "\"No End Theory\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1156,
+    "itemRarity": 4,
+    "itemType": "Ship Schematics",
+    "itemHash": "1131808636"
+  },
+  {
+    "name": "Kestrel Class CX0 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2309,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2459202187"
+  },
+  {
+    "name": "\"The Road Unraveled\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 3345,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "4043575177"
+  },
+  {
+    "name": "Phaeton Class v3.1",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2304,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518400"
+  },
+  {
+    "name": "Phaeton Class v2.1",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2303,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518401"
+  },
+  {
+    "name": "Regulus Class 44b",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2306,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518402"
+  },
+  {
+    "name": "Regulus Class 22a",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2305,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518403"
+  },
+  {
+    "name": "Regulus Class 66c",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2307,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518405"
+  },
+  {
+    "name": "Kestrel Class CX0",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2309,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518407"
+  },
+  {
+    "name": "Kestrel Class EX0",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2310,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518406"
+  },
+  {
+    "name": "Kestrel Class AX0",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2308,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "1068518404"
+  },
+  {
+    "name": "\"Made of Shakespeare\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1153,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2704512801"
+  },
+  {
+    "name": "\"Always Shoot the Messenger\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1152,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2704512802"
+  },
+  {
+    "name": "\"Never Liked Thermodynamics\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1151,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "2704512803"
+  },
+  {
+    "name": "\"The Fermi Solution\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1949,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "4159905410"
+  },
+  {
+    "name": "\"Vacuum Diagram\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1171,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "397406333"
+  },
+  {
+    "name": "NS44 Cloud Errant Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2282,
+    "itemRarity": 2,
+    "itemType": "Ship Schematics",
+    "itemHash": "537148029"
+  },
+  {
+    "name": "Phaeton Class v1.1 Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2320,
+    "itemRarity": 1,
+    "itemType": "Ship Schematics",
+    "itemHash": "2270022935"
+  },
+  {
+    "name": "Once and Future",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 4297,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "691757822"
+  },
+  {
+    "name": "\"Armor of Vows\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1174,
+    "itemRarity": 4,
+    "itemType": "Ship",
+    "itemHash": "3362576764"
+  },
+  {
+    "name": "Phaeton Class v3",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2312,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295016"
+  },
+  {
+    "name": "Kestrel Class EX ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2319,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295010"
+  },
+  {
+    "name": "Regulus Class 55",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2314,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295017"
+  },
+  {
+    "name": "Kestrel Class AX",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2317,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295020"
+  },
+  {
+    "name": "Kestrel Class CX ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2318,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295021"
+  },
+  {
+    "name": "Phaeton Class v1",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2301,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295018"
+  },
+  {
+    "name": "Phaeton Class v2 ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2302,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295019"
+  },
+  {
+    "name": "Regulus Class 77",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2315,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295022"
+  },
+  {
+    "name": "Regulus Class 99",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2316,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295023"
+  },
+  {
+    "name": "\"Quite Content Damsel\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1165,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316384"
+  },
+  {
+    "name": "Phaeton Class v1.1",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2320,
+    "itemRarity": 1,
+    "itemType": "Ship",
+    "itemHash": "4141295011"
+  },
+  {
+    "name": "\"Laughing Behind Your Back\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1164,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316385"
+  },
+  {
+    "name": "\"Crypt Hammer\" ",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1169,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316388"
+  },
+  {
+    "name": "\"The Fangs of Nyx\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1163,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316386"
+  },
+  {
+    "name": "\"Aurora Lance\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1168,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316389"
+  },
+  {
+    "name": "\"Rope to Heaven\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1162,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316387"
+  },
+  {
+    "name": "\"Karuna, Falling\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1167,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316390"
+  },
+  {
+    "name": "\"Outrageous Fortune\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1170,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316395"
+  },
+  {
+    "name": "\"Eon Trespass\"",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 1166,
+    "itemRarity": 3,
+    "itemType": "Ship",
+    "itemHash": "526316391"
+  },
+  {
+    "name": "AX10 Slipper Misfit Schematic",
+    "description": "",
+    "perks": {
+      "main_perk": -1,
+      "sub_perks": []
+    },
+    "icon": "/common/destiny2_content/icons/dbe58341b8c34716544e520bf3cb7083.jpg",
+    "dyeIndex": -1,
+    "patternIndex": 18,
+    "artArrangementIndex": 2296,
+    "itemRarity": 3,
+    "itemType": "Ship Schematics",
+    "itemHash": "3217020298"
+  }
+]
